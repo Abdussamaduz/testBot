@@ -1,0 +1,23 @@
+{
+  "name": "testBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdussamaduz/testBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdussamaduz/testBot/issues"
+  },
+  "homepage": "https://github.com/Abdussamaduz/testBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
